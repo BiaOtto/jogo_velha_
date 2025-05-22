@@ -120,7 +120,7 @@ class _GamePageState extends State<GamePage> {
       ),
       body: Center(
         child: Column(
-          mainAxisSize: MainAxisSize.min,  // ocupa só o necessário verticalmente
+          mainAxisSize: MainAxisSize.min,  
           children: [
             Container(
               width: 300,
